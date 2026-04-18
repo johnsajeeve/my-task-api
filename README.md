@@ -146,7 +146,7 @@ For hiring managers, this project showcases:
 **Suitable for**: Backend Engineer, Full-Stack, DevOps/SRE, Startup CTO roles
 
 ## Dependencies
-fastapi==0.135.3
+fastapi==0.135.3 /n
 uvicorn==0.43.0
 sqlalchemy==2.0.49
 psycopg2-binary==2.9.11
@@ -169,10 +169,9 @@ pytest-cov==4.1.0
 - [x] Test coverage (62%)
 - [x] Containerization
 - [x] Monitoring dashboard
-- [ ] CI/CD pipeline (GitHub Actions)
-- [ ] Rate limiting
-- [ ] Authentication (JWT)
-- [ ] Deployment (AWS/Heroku/GCP)
+- [x] CI/CD pipeline (GitHub Actions)
+
+
 
 ## License
 
